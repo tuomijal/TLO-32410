@@ -1,9 +1,10 @@
-import pandas as pd
 from bokeh.models import ColumnDataSource, ColorBar
 from bokeh.plotting import figure, show, curdoc
 from bokeh.io import output_file
 from bokeh.transform import linear_cmap
 from bokeh.palettes import Viridis
+
+import pandas as pd
 
 print("Loading data")
 ld_backup = pd.read_csv(f"http://data.insideairbnb.com/spain/catalonia/barcelona/2020-02-16/data/listings.csv.gz")

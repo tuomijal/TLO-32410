@@ -9,9 +9,6 @@ This repository contains my implementation of all the assignments required in TL
 ### 3D maps
 ![3d maps](/results/orbit.gif)
 
-### 2D maps
-![3d maps](/results/2d_map.png)
-
 ## Links
 
 - [Course GitHub](https://github.com/jodatut/2020)

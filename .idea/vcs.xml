@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/references/bokeh-notebooks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/references/pyvista-examples" vcs="Git" />
   </component>
 </project>

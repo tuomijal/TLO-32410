@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tuomijal/TLO-32410/master)
 
-This repository contains my implementation of all the assignments required in TLO-32410 Johdatus Datatieteeseen 2020 -course.
+This repository contains my implementation of all the assignments required in TLO-32410 Johdatus Datatieteeseen 2020 -course. The dataset consists of the Inside AirBnB Barcelona dataset. Please note that the all the notebooks are available as interactive versions using [Binder](https://mybinder.org/v2/gh/tuomijal/TLO-32410/master). This is especially important when evaluating the visualiations.
 
 ## Visualisations
 
